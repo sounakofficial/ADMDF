@@ -1,0 +1,10 @@
+C:\Users\souna\source\repos\Csharp_HandsOn\WinForm_FileCharCount\bin\Debug\WinForm_FileCharCount.exe.config
+C:\Users\souna\source\repos\Csharp_HandsOn\WinForm_FileCharCount\bin\Debug\WinForm_FileCharCount.exe
+C:\Users\souna\source\repos\Csharp_HandsOn\WinForm_FileCharCount\bin\Debug\WinForm_FileCharCount.pdb
+C:\Users\souna\source\repos\Csharp_HandsOn\WinForm_FileCharCount\obj\Debug\WinForm_FileCharCount.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\Csharp_HandsOn\WinForm_FileCharCount\obj\Debug\WinForm_FileCharCount.Form1.resources
+C:\Users\souna\source\repos\Csharp_HandsOn\WinForm_FileCharCount\obj\Debug\WinForm_FileCharCount.Properties.Resources.resources
+C:\Users\souna\source\repos\Csharp_HandsOn\WinForm_FileCharCount\obj\Debug\WinForm_FileCharCount.csproj.GenerateResource.cache
+C:\Users\souna\source\repos\Csharp_HandsOn\WinForm_FileCharCount\obj\Debug\WinForm_FileCharCount.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\Csharp_HandsOn\WinForm_FileCharCount\obj\Debug\WinForm_FileCharCount.exe
+C:\Users\souna\source\repos\Csharp_HandsOn\WinForm_FileCharCount\obj\Debug\WinForm_FileCharCount.pdb

@@ -1,0 +1,7 @@
+C:\Users\souna\source\repos\Csharp_HandsOn\OrderDetails\bin\Debug\OrderDetails.exe.config
+C:\Users\souna\source\repos\Csharp_HandsOn\OrderDetails\bin\Debug\OrderDetails.exe
+C:\Users\souna\source\repos\Csharp_HandsOn\OrderDetails\bin\Debug\OrderDetails.pdb
+C:\Users\souna\source\repos\Csharp_HandsOn\OrderDetails\obj\Debug\OrderDetails.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\Csharp_HandsOn\OrderDetails\obj\Debug\OrderDetails.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\Csharp_HandsOn\OrderDetails\obj\Debug\OrderDetails.exe
+C:\Users\souna\source\repos\Csharp_HandsOn\OrderDetails\obj\Debug\OrderDetails.pdb

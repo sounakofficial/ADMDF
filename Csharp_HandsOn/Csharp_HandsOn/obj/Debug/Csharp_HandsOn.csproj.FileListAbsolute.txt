@@ -1,0 +1,6 @@
+C:\Users\souna\source\repos\Csharp_HandsOn\Csharp_HandsOn\bin\Debug\Csharp_HandsOn.exe.config
+C:\Users\souna\source\repos\Csharp_HandsOn\Csharp_HandsOn\bin\Debug\Csharp_HandsOn.exe
+C:\Users\souna\source\repos\Csharp_HandsOn\Csharp_HandsOn\bin\Debug\Csharp_HandsOn.pdb
+C:\Users\souna\source\repos\Csharp_HandsOn\Csharp_HandsOn\obj\Debug\Csharp_HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\Csharp_HandsOn\Csharp_HandsOn\obj\Debug\Csharp_HandsOn.exe
+C:\Users\souna\source\repos\Csharp_HandsOn\Csharp_HandsOn\obj\Debug\Csharp_HandsOn.pdb

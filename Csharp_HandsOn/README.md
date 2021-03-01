@@ -23,11 +23,11 @@ This solution contains 4 async hands-on together. They are -
 
 > Prints the no of characters present in a file by clicking a winform button and selecting the file.
 
-CohortDetails
+### CohortDetails
 
 > This project depicts **Named Parameters**.
 
-OrderDetails
+### OrderDetails
 
 > This project depicts **Optional Parameters**
 

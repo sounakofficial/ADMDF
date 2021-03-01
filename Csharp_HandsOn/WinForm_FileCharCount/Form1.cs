@@ -30,7 +30,7 @@ namespace WinForm_FileCharCount
                 {
                     count++;
                 }
-                label1.Text = "No of Chars in file: " + count;
+                label1.Text = "No of Characters in the file: " + count;
             }
         }
 

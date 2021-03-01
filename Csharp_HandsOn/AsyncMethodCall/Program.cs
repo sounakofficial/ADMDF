@@ -20,17 +20,17 @@ namespace Csharp_HandsOn
         {
             Console.WriteLine("Inside func1..waiting for func2");
             string res = await Func2();
-            Console.WriteLine("finishing func1");
+            Console.WriteLine("\nfinishing func1..");
             return res;
         }
 
         public static async Task<string> Func2()
         {
-            Console.WriteLine("Starting func2");
+            Console.WriteLine("\nStarting func2..");
             await Task.Delay(5000);
-            Console.WriteLine("finishing func2");
+            Console.WriteLine("\nfinishing func2..");
             //Thread.Sleep(1000);
-            return "randomText";
+            return "\nText From inside func2";
         }
     }
 }

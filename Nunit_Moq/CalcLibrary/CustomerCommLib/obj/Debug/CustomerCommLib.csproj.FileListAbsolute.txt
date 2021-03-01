@@ -1,0 +1,12 @@
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\bin\Debug\Castle.Core.dll
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\bin\Debug\Castle.Core.xml
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CopyComplete
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+C:\Users\souna\source\repos\CalcLibrary\CustomerCommLib\obj\Debug\CustomerCommLib.pdb

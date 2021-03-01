@@ -1,0 +1,5 @@
+C:\Users\souna\source\repos\CalcLibrary\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+C:\Users\souna\source\repos\CalcLibrary\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Users\souna\source\repos\CalcLibrary\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\CalcLibrary\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+C:\Users\souna\source\repos\CalcLibrary\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb

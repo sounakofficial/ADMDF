@@ -1,0 +1,10 @@
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsUsage\bin\Debug\WindowsFormsUsage.exe.config
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsUsage\bin\Debug\WindowsFormsUsage.exe
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsUsage\bin\Debug\WindowsFormsUsage.pdb
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsUsage\obj\Debug\WindowsFormsUsage.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsUsage\obj\Debug\WindowsFormsUsage.Form1.resources
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsUsage\obj\Debug\WindowsFormsUsage.Properties.Resources.resources
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsUsage\obj\Debug\WindowsFormsUsage.csproj.GenerateResource.cache
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsUsage\obj\Debug\WindowsFormsUsage.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsUsage\obj\Debug\WindowsFormsUsage.exe
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsUsage\obj\Debug\WindowsFormsUsage.pdb

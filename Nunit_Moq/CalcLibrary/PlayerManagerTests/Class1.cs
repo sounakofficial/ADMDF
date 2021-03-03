@@ -13,7 +13,7 @@ namespace PlayerManagerTests
     public class Class1
     {
         private IPlayerMapper mockPlayerMapper;
-        private Player player;
+        private Player player = null;
 
         [OneTimeSetUp]
         public void Init()
@@ -25,15 +25,15 @@ namespace PlayerManagerTests
             Mock.Get(mockPlayerMapper)
                 .Setup(m => m.AddNewPlayerIntoDb(It.IsAny<string>()));
 
-            player = new Player(It.IsAny<string>(), It.IsAny<int>(), It.IsAny<string>(), It.IsAny<int>());
+            //player = new Player(It.IsAny<string>(), It.IsAny<int>(), It.IsAny<string>(), It.IsAny<int>());
         }
 
-        [Test]
-        public void PlayerMapperTest()
-        {
-            var messege = Assert.Throws<ArgumentException>(() => Player.RegisterNewPlayer(It.IsAny<string>(), mockPlayerMapper));
-            Assert.Fail(messege.Message);
-        }
+        //[Test]
+        //public void PlayerMapperTest()
+        //{
+        //    var messege = Assert.Throws<ArgumentException>(() => Player.RegisterNewPlayer(It.IsAny<string>(), mockPlayerMapper));
+        //    Assert.Fail(messege.Message);
+        //}
 
         [Test]
         public void PlayerTest()

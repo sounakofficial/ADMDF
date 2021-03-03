@@ -1,0 +1,9 @@
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsServiceUsage\bin\Debug\WinForms_WindowsServices.exe.config
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsServiceUsage\bin\Debug\WinForms_WindowsServices.exe
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsServiceUsage\bin\Debug\WinForms_WindowsServices.pdb
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsServiceUsage\obj\Debug\WinForms_WindowsServices.ProjectInstaller.resources
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsServiceUsage\obj\Debug\WindowsServiceUsage.csproj.GenerateResource.cache
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsServiceUsage\obj\Debug\WindowsServiceUsage.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsServiceUsage\obj\Debug\WinForms_WindowsServices.exe
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsServiceUsage\obj\Debug\WinForms_WindowsServices.pdb
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsServiceUsage\obj\Debug\WindowsServiceUsage.csprojAssemblyReference.cache

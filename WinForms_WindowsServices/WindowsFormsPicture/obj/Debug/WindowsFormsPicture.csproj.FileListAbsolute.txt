@@ -1,0 +1,10 @@
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsPicture\bin\Debug\WindowsFormsPicture.exe.config
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsPicture\bin\Debug\WindowsFormsPicture.exe
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsPicture\bin\Debug\WindowsFormsPicture.pdb
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsPicture\obj\Debug\WindowsFormsPicture.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsPicture\obj\Debug\WindowsFormsPicture.Form1.resources
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsPicture\obj\Debug\WindowsFormsPicture.Properties.Resources.resources
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsPicture\obj\Debug\WindowsFormsPicture.csproj.GenerateResource.cache
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsPicture\obj\Debug\WindowsFormsPicture.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsPicture\obj\Debug\WindowsFormsPicture.exe
+C:\Users\souna\source\repos\WinForms_WindowsServices\WindowsFormsPicture\obj\Debug\WindowsFormsPicture.pdb

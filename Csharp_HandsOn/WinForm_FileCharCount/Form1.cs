@@ -34,9 +34,16 @@ namespace WinForm_FileCharCount
             }
         }
 
-        public Task<string> ReadFile(string path)
+        public async Task<string> ReadFile(string path)
         {
-            return Task.FromResult(File.ReadAllText(path));
+            await Task.Delay(5000);
+            byte[] res;
+            using (FileStream fs = File.Open(path, FileMode.Open))
+            {
+                res = new byte[fs.Length];
+                await fs.ReadAsync(res, 0, (int)fs.Length);
+            }
+            return Encoding.ASCII.GetString(res);
         }
     }
 }

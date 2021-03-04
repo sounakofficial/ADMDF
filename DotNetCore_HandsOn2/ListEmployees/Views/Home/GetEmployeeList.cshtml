@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ListEmployees.Models.Employee>
+
+@{
+    ViewData["Title"] = "GetEmployeeList";
+    string st = null;
+}
+
+<h1>GetEmployeeList</h1>
+
+<div class="row display-4">
+    <span class="col-md-3 h3 pb-md-3">Id</span>
+    <span class="col-md-3 h3 pb-md-3">Name</span>
+    <span class="col-md-3 h3 pb-md-3">Salary</span>
+    <span class="col-md-3 h3 pb-md-3">IsPermanent</span>
+</div>
+
+@foreach (var item in Model)
+{
+    if (item.IsPermanent == true)
+    {
+        st = "font-weight:bold";
+    }
+    else
+    {
+        st = string.Empty;
+    }
+    <div class="row " style="@st">
+        <span class="col-md-3 mb-3">@item.Id</span>
+        <span class="col-md-3 mb-3">@item.Name</span>
+        <span class="col-md-3 mb-3">@item.Salary</span>
+        <span class="col-md-3 mb-3">@item.IsPermanent</span>
+    </div>
+}

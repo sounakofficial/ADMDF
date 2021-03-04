@@ -1,0 +1,26 @@
+﻿@{
+    List<string> hydrabadOffice = new List<string>()
+{
+        "Microsoft www.microsoft.com",
+        "CTS www.cognizant.com",
+        "Google",
+        "Amazon",
+        "TCS"
+    };
+    string st = string.Empty;
+}
+
+@foreach (var item in hydrabadOffice)
+{
+    if (item.Equals("Amazon"))
+    {
+        st = "font-weight:bold";
+    }
+    else
+    {
+        st = string.Empty;
+    }
+    <div class="card-body shadow p-3 mb-5 bg-white rounded">
+        <span style="@st" class="card-body">@item</span>
+    </div>
+}

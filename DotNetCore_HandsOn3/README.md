@@ -25,5 +25,5 @@ This solution contains 2 Questions. They are -
 
 ## DotNetFramework Logging
 
-> This implementation is situated in DotNetCore_HandsOn3.1 solution.
+> This implementation is situated in [DotNetCore_HandsOn3.1 solution.](https://github.com/sounakofficial/ADMDF/tree/main/DotNetCore_HandsOn3.1 "Solution Link")
 

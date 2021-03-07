@@ -1,0 +1,14 @@
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\bin\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.exe
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\bin\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.deps.json
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\bin\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.runtimeconfig.json
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\bin\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.runtimeconfig.dev.json
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\bin\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.dll
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\bin\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.pdb
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\obj\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\obj\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\obj\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.AssemblyInfoInputs.cache
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\obj\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.AssemblyInfo.cs
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\obj\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\obj\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.dll
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\obj\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.pdb
+C:\Users\souna\source\repos\CodeAnalysis_HandsOn\CodeAnalysis_HandsOn\obj\Debug\netcoreapp3.1\CodeAnalysis_HandsOn.genruntimeconfig.cache

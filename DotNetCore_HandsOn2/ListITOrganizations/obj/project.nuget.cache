@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lFF/QsEZIDPrnTB3QOil751/Nx+eeL+ojc3ME4A/vqJgnAYexsr1EwxQbmTwiw+K5CsZWGkH3izTxUPfriWzVg==",
+  "dgSpecHash": "eFgP0eT+yNvXpOoH0SDYZuqGqKc5qjSsTuPMj/VXEJyvT4OhH31fu6tvvraCHwHMlBh9OMnm9bXM8R92t16C3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn2\\ListITOrganizations\\ListITOrganizations.csproj",
+  "projectFilePath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn2\\ListITOrganizations\\ListITOrganizations.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

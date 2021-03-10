@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k/0ZN7zlEpn9RhcyIr2dPzTt6MFIodhUusfmE9DWvbbPXKrgDdXwY5BTmIrVyI+9ao3QwYnHjtngi+0QpDhUig==",
+  "dgSpecHash": "HonUvVXJ5gDmtPpHap1jbBc1/qn9f9GtFOZy//PFK1s8ITnYoqz683VGLfAH65Wc6+qbOIP2DtEDyjt0qq/vog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn3\\ScaffoldView\\ScaffoldView.csproj",
+  "projectFilePath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn3\\ScaffoldView\\ScaffoldView.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\souna\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\souna\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

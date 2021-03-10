@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn2\\ListWithPartialView\\ListWithPartialView.csproj": {}
+    "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn2\\ListWithPartialView\\ListWithPartialView.csproj": {}
   },
   "projects": {
-    "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn2\\ListWithPartialView\\ListWithPartialView.csproj": {
+    "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn2\\ListWithPartialView\\ListWithPartialView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn2\\ListWithPartialView\\ListWithPartialView.csproj",
+        "projectUniqueName": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn2\\ListWithPartialView\\ListWithPartialView.csproj",
         "projectName": "ListWithPartialView",
-        "projectPath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn2\\ListWithPartialView\\ListWithPartialView.csproj",
+        "projectPath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn2\\ListWithPartialView\\ListWithPartialView.csproj",
         "packagesPath": "C:\\Users\\souna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn2\\ListWithPartialView\\obj\\",
+        "outputPath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn2\\ListWithPartialView\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\souna\\AppData\\Roaming\\NuGet\\NuGet.Config",

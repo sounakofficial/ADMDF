@@ -7475,11 +7475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn3\\ScaffoldView\\ScaffoldView.csproj",
+      "projectUniqueName": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn3\\ScaffoldView\\ScaffoldView.csproj",
       "projectName": "ScaffoldView",
-      "projectPath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn3\\ScaffoldView\\ScaffoldView.csproj",
+      "projectPath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn3\\ScaffoldView\\ScaffoldView.csproj",
       "packagesPath": "C:\\Users\\souna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn3\\ScaffoldView\\obj\\",
+      "outputPath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn3\\ScaffoldView\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\souna\\AppData\\Roaming\\NuGet\\NuGet.Config",

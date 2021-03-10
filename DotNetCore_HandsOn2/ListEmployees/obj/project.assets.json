@@ -6237,11 +6237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn2\\ListEmployees\\ListEmployees.csproj",
+      "projectUniqueName": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn2\\ListEmployees\\ListEmployees.csproj",
       "projectName": "ListEmployees",
-      "projectPath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn2\\ListEmployees\\ListEmployees.csproj",
+      "projectPath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn2\\ListEmployees\\ListEmployees.csproj",
       "packagesPath": "C:\\Users\\souna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn2\\ListEmployees\\obj\\",
+      "outputPath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn2\\ListEmployees\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\souna\\AppData\\Roaming\\NuGet\\NuGet.Config",

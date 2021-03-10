@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aFVjdfB4x0dgFZ+w4aHbOatwcgfnom56YAu7sNEq2uq0W9B/O/D3xuHpDSoR8uwexyAAiZ7QPAkNG1PbZEWNFA==",
+  "dgSpecHash": "ERiBRnWAGLK9HagttJNRU90k9nJ+tODoIIB9w0QWi1DhyKP9woQDQ+cwaAVo/Qy+XSoOYFZo2cys8mQsEgnxCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn2\\ListWithPartialView\\ListWithPartialView.csproj",
+  "projectFilePath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn2\\ListWithPartialView\\ListWithPartialView.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\souna\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.3\\microsoft.aspnetcore.mvc.razor.extensions.5.0.3.nupkg.sha512",
     "C:\\Users\\souna\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.3\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.3.nupkg.sha512",

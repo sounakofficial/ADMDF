@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn3\\LoggingCore\\LoggingCore.csproj": {}
+    "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn3\\LoggingCore\\LoggingCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn3\\LoggingCore\\LoggingCore.csproj": {
+    "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn3\\LoggingCore\\LoggingCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn3\\LoggingCore\\LoggingCore.csproj",
+        "projectUniqueName": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn3\\LoggingCore\\LoggingCore.csproj",
         "projectName": "LoggingCore",
-        "projectPath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn3\\LoggingCore\\LoggingCore.csproj",
+        "projectPath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn3\\LoggingCore\\LoggingCore.csproj",
         "packagesPath": "C:\\Users\\souna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn3\\LoggingCore\\obj\\",
+        "outputPath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn3\\LoggingCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\souna\\AppData\\Roaming\\NuGet\\NuGet.Config",

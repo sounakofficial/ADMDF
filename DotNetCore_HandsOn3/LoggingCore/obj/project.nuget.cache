@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z47c8eZzY8EcQgYQv8Rzy0qYXI5YVucceY3SOG386KdA48wDwCEkXtGAjvpEURqYQ6x5+EncX4aRMEy/k+HSZw==",
+  "dgSpecHash": "fSeFyEBCu0hU8Bx9tTFa4BaKcMuFvKQ4ql6OJNFRntXOPOOL0XqB9ySfIsb2KDnFjCrMm/Ik2Nl1gycf7O1CXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\souna\\source\\repos\\DotNetCore_HandsOn3\\LoggingCore\\LoggingCore.csproj",
+  "projectFilePath": "C:\\Users\\souna\\Downloads\\ADMDF\\DotNetCore_HandsOn3\\LoggingCore\\LoggingCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\souna\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\souna\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",

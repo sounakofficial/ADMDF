@@ -12,11 +12,13 @@ namespace GeneralMedTest
     public class MedTests
     {
         private Program _program;
+        private Medicine m;
 
         [SetUp]
         public void SetUp()
         {
             _program = new Program();
+            m = _program.CreateMedicineDetail("abc", "abc", "abc", DateTime.Parse("2021-04-08"), 1);
         }
 
         // NUnit test cases for Create Medicine detail
@@ -57,16 +59,7 @@ namespace GeneralMedTest
         [TestCase(1, "2021-04-08", "abc")]
         public void CreateCartonDetail_WhenCalled_ReturnCartonDetail(int medicineStripCount, DateTime launchDate, string retailerAddress)
         {
-            var medicine = new Medicine()
-            {
-                Name = "abc",
-                GenericMedicineName = "abc",
-                Composition = "abc",
-                ExpiryDate = new DateTime(2021, 5, 8),
-                PricePerStrip = 1
-            };
-
-            var result = _program.CreateCartonDetail(medicineStripCount, launchDate, retailerAddress, medicine);
+            var result = _program.CreateCartonDetail(medicineStripCount, launchDate, retailerAddress, m);
 
             Assert.That(result, Is.TypeOf<CartonDetail>());
         }
@@ -76,32 +69,14 @@ namespace GeneralMedTest
         [TestCase(-1, "2021-04-08", "abc")]
         public void CreateCartonDetail_MedicineStripCountIsLessOrEqualZero_RaiseException(int medicineStripCount, DateTime launchDate, string retailerAddress)
         {
-            var medicine = new Medicine()
-            {
-                Name = "abc",
-                GenericMedicineName = "abc",
-                Composition = "abc",
-                ExpiryDate = new DateTime(2021, 4, 7),
-                PricePerStrip = 1
-            };
-
-            Assert.Throws<Exception>(() => _program.CreateCartonDetail(medicineStripCount, launchDate, retailerAddress, medicine));
+            Assert.Throws<Exception>(() => _program.CreateCartonDetail(medicineStripCount, launchDate, retailerAddress, m));
         }
 
         [Test]
         [TestCase(1, "2020-04-08", "abc")]
         public void CreateCartonDetail_LaunchDateLessThanCurrentDate_RaiseException(int medicineStripCount, DateTime launchDate, string retailerAddress)
         {
-            var medicine = new Medicine()
-            {
-                Name = "abc",
-                GenericMedicineName = "abc",
-                Composition = "abc",
-                ExpiryDate = new DateTime(2021, 5, 8),
-                PricePerStrip = 1
-            };
-
-            Assert.Throws<Exception>(() => _program.CreateCartonDetail(medicineStripCount, launchDate, retailerAddress, medicine));
+            Assert.Throws<Exception>(() => _program.CreateCartonDetail(medicineStripCount, launchDate, retailerAddress, m));
         }
 
         [Test]

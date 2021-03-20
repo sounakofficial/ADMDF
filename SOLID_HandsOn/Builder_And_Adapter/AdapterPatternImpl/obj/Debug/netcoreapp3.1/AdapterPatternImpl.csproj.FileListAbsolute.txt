@@ -1,0 +1,13 @@
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\bin\Debug\netcoreapp3.1\AdapterPatternImpl.exe
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\bin\Debug\netcoreapp3.1\AdapterPatternImpl.deps.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\bin\Debug\netcoreapp3.1\AdapterPatternImpl.runtimeconfig.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\bin\Debug\netcoreapp3.1\AdapterPatternImpl.runtimeconfig.dev.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\bin\Debug\netcoreapp3.1\AdapterPatternImpl.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\bin\Debug\netcoreapp3.1\AdapterPatternImpl.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\obj\Debug\netcoreapp3.1\AdapterPatternImpl.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\obj\Debug\netcoreapp3.1\AdapterPatternImpl.AssemblyInfoInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\obj\Debug\netcoreapp3.1\AdapterPatternImpl.AssemblyInfo.cs
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\obj\Debug\netcoreapp3.1\AdapterPatternImpl.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\obj\Debug\netcoreapp3.1\AdapterPatternImpl.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\obj\Debug\netcoreapp3.1\AdapterPatternImpl.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\Builder_And_Adapter\AdapterPatternImpl\obj\Debug\netcoreapp3.1\AdapterPatternImpl.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\bin\Debug\netcoreapp3.1\BuilderPatternImpl.exe
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\bin\Debug\netcoreapp3.1\BuilderPatternImpl.deps.json
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\bin\Debug\netcoreapp3.1\BuilderPatternImpl.runtimeconfig.json
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\bin\Debug\netcoreapp3.1\BuilderPatternImpl.runtimeconfig.dev.json
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\bin\Debug\netcoreapp3.1\BuilderPatternImpl.dll
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\bin\Debug\netcoreapp3.1\BuilderPatternImpl.pdb
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\obj\Debug\netcoreapp3.1\BuilderPatternImpl.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\obj\Debug\netcoreapp3.1\BuilderPatternImpl.AssemblyInfoInputs.cache
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\obj\Debug\netcoreapp3.1\BuilderPatternImpl.AssemblyInfo.cs
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\obj\Debug\netcoreapp3.1\BuilderPatternImpl.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\obj\Debug\netcoreapp3.1\BuilderPatternImpl.dll
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\obj\Debug\netcoreapp3.1\BuilderPatternImpl.pdb
+C:\Users\souna\source\repos\Builder_And_Adapter\BuilderPatternImpl\obj\Debug\netcoreapp3.1\BuilderPatternImpl.genruntimeconfig.cache

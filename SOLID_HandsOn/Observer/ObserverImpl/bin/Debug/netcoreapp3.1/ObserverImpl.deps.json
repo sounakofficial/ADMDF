@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ObserverImpl/1.0.0": {
+        "runtime": {
+          "ObserverImpl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObserverImpl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\bin\Debug\netcoreapp3.1\MediatorImpl.exe
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\bin\Debug\netcoreapp3.1\MediatorImpl.deps.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\bin\Debug\netcoreapp3.1\MediatorImpl.runtimeconfig.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\bin\Debug\netcoreapp3.1\MediatorImpl.runtimeconfig.dev.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\bin\Debug\netcoreapp3.1\MediatorImpl.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\bin\Debug\netcoreapp3.1\MediatorImpl.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\obj\Debug\netcoreapp3.1\MediatorImpl.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\obj\Debug\netcoreapp3.1\MediatorImpl.AssemblyInfoInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\obj\Debug\netcoreapp3.1\MediatorImpl.AssemblyInfo.cs
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\obj\Debug\netcoreapp3.1\MediatorImpl.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\obj\Debug\netcoreapp3.1\MediatorImpl.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\obj\Debug\netcoreapp3.1\MediatorImpl.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\Mediator\MediatorImpl\obj\Debug\netcoreapp3.1\MediatorImpl.genruntimeconfig.cache

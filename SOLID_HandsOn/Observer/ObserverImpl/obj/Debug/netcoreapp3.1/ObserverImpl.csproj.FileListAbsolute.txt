@@ -1,0 +1,13 @@
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\bin\Debug\netcoreapp3.1\ObserverImpl.exe
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\bin\Debug\netcoreapp3.1\ObserverImpl.deps.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\bin\Debug\netcoreapp3.1\ObserverImpl.runtimeconfig.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\bin\Debug\netcoreapp3.1\ObserverImpl.runtimeconfig.dev.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\bin\Debug\netcoreapp3.1\ObserverImpl.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\bin\Debug\netcoreapp3.1\ObserverImpl.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\obj\Debug\netcoreapp3.1\ObserverImpl.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\obj\Debug\netcoreapp3.1\ObserverImpl.AssemblyInfoInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\obj\Debug\netcoreapp3.1\ObserverImpl.AssemblyInfo.cs
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\obj\Debug\netcoreapp3.1\ObserverImpl.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\obj\Debug\netcoreapp3.1\ObserverImpl.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\obj\Debug\netcoreapp3.1\ObserverImpl.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\Observer\ObserverImpl\obj\Debug\netcoreapp3.1\ObserverImpl.genruntimeconfig.cache

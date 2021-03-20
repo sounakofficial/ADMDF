@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPatternImpl", "BuilderPatternImpl\BuilderPatternImpl.csproj", "{1408AF26-F897-465F-A7C7-C54D2C52631A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPatternImpl", "AdapterPatternImpl\AdapterPatternImpl.csproj", "{FDA5E192-528A-46F3-9D97-DF26E7809EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1408AF26-F897-465F-A7C7-C54D2C52631A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1408AF26-F897-465F-A7C7-C54D2C52631A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1408AF26-F897-465F-A7C7-C54D2C52631A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1408AF26-F897-465F-A7C7-C54D2C52631A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA5E192-528A-46F3-9D97-DF26E7809EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA5E192-528A-46F3-9D97-DF26E7809EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA5E192-528A-46F3-9D97-DF26E7809EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA5E192-528A-46F3-9D97-DF26E7809EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF6CCA2F-53C9-4F6B-9A4C-C42390C3AB1F}
+	EndGlobalSection
+EndGlobal

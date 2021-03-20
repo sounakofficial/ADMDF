@@ -1,0 +1,13 @@
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.exe
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.deps.json
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.runtimeconfig.json
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.runtimeconfig.dev.json
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.AssemblyInfoInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.AssemblyInfo.cs
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.genruntimeconfig.cache

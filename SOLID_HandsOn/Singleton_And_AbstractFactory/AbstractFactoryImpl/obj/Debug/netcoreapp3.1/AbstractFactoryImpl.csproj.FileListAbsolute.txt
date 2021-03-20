@@ -1,0 +1,13 @@
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\bin\Debug\netcoreapp3.1\AbstractFactoryImpl.exe
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\bin\Debug\netcoreapp3.1\AbstractFactoryImpl.deps.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\bin\Debug\netcoreapp3.1\AbstractFactoryImpl.runtimeconfig.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\bin\Debug\netcoreapp3.1\AbstractFactoryImpl.runtimeconfig.dev.json
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\bin\Debug\netcoreapp3.1\AbstractFactoryImpl.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\bin\Debug\netcoreapp3.1\AbstractFactoryImpl.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\obj\Debug\netcoreapp3.1\AbstractFactoryImpl.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\obj\Debug\netcoreapp3.1\AbstractFactoryImpl.AssemblyInfoInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\obj\Debug\netcoreapp3.1\AbstractFactoryImpl.AssemblyInfo.cs
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\obj\Debug\netcoreapp3.1\AbstractFactoryImpl.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\obj\Debug\netcoreapp3.1\AbstractFactoryImpl.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\obj\Debug\netcoreapp3.1\AbstractFactoryImpl.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\Singleton_And_AbstractFactory\AbstractFactoryImpl\obj\Debug\netcoreapp3.1\AbstractFactoryImpl.genruntimeconfig.cache

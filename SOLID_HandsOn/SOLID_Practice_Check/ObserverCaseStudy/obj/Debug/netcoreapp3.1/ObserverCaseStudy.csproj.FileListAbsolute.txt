@@ -1,0 +1,13 @@
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.exe
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.deps.json
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.runtimeconfig.json
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.runtimeconfig.dev.json
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\bin\Debug\netcoreapp3.1\ObserverCaseStudy.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.csprojAssemblyReference.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.AssemblyInfoInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.AssemblyInfo.cs
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.dll
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.pdb
+C:\Users\souna\source\repos\SOLID_HandsOn\SOLID_Practice_Check\ObserverCaseStudy\obj\Debug\netcoreapp3.1\ObserverCaseStudy.genruntimeconfig.cache
